@@ -32,12 +32,12 @@ padding: 1em;
 
 
 <tr>
-<td><b> USERNAME : <input type="text" name="userName"/>  </b><br> </td>
+<td><b> UNAME : <input type="text" name="userName"/>  </b><br> </td>
 
 </tr>
 
 <tr>
-<td> <b>PASSWORD : <input type="password" name="password"/> </b><br> </td>
+<td> <b>PWD : <input type="password" name="password"/> </b><br> </td>
 
 </tr>
 
